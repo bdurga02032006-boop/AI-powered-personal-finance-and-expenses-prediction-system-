@@ -1,0 +1,61 @@
+expense_date,category,amount,payment_method,description
+2025-01-03,Rent,12000,UPI,Monthly rent
+2025-01-08,Food,3100,UPI,Groceries and meals
+2025-01-14,Travel,1450,UPI,Commute
+2025-01-18,Bills,2100,Bank Transfer,Electricity and internet
+2025-01-23,Education,1800,Debit Card,Course materials
+2025-02-03,Rent,12000,UPI,Monthly rent
+2025-02-08,Food,3400,UPI,Groceries and meals
+2025-02-14,Travel,1600,Cash,Commute
+2025-02-18,Bills,1900,Bank Transfer,Utilities
+2025-02-24,Entertainment,1200,Debit Card,Weekend activity
+2025-03-03,Rent,12000,UPI,Monthly rent
+2025-03-08,Food,3250,UPI,Groceries and meals
+2025-03-14,Travel,1550,UPI,Commute
+2025-03-18,Bills,2200,Bank Transfer,Electricity and internet
+2025-03-23,Healthcare,950,Debit Card,Pharmacy
+2025-04-03,Rent,12000,UPI,Monthly rent
+2025-04-08,Food,3600,UPI,Groceries and meals
+2025-04-14,Travel,1700,Cash,Commute
+2025-04-18,Bills,2050,Bank Transfer,Utilities
+2025-04-24,Shopping,2400,Debit Card,Household items
+2025-05-03,Rent,12000,UPI,Monthly rent
+2025-05-08,Food,3450,UPI,Groceries and meals
+2025-05-14,Travel,1650,UPI,Commute
+2025-05-18,Bills,2300,Bank Transfer,Electricity and internet
+2025-05-23,Education,1200,Debit Card,Course materials
+2025-06-03,Rent,12000,UPI,Monthly rent
+2025-06-08,Food,3800,UPI,Groceries and meals
+2025-06-14,Travel,1750,Cash,Commute
+2025-06-18,Bills,2150,Bank Transfer,Utilities
+2025-06-24,Entertainment,1850,Debit Card,Weekend activity
+2025-07-03,Rent,12000,UPI,Monthly rent
+2025-07-08,Food,3700,UPI,Groceries and meals
+2025-07-14,Travel,1820,UPI,Commute
+2025-07-18,Bills,2400,Bank Transfer,Electricity and internet
+2025-07-23,Healthcare,1400,Debit Card,Pharmacy
+2025-08-03,Rent,12000,UPI,Monthly rent
+2025-08-08,Food,3950,UPI,Groceries and meals
+2025-08-14,Travel,1900,Cash,Commute
+2025-08-18,Bills,2250,Bank Transfer,Utilities
+2025-08-24,Shopping,1900,Debit Card,Household items
+2025-09-03,Rent,12000,UPI,Monthly rent
+2025-09-08,Food,3850,UPI,Groceries and meals
+2025-09-14,Travel,1880,UPI,Commute
+2025-09-18,Bills,2500,Bank Transfer,Electricity and internet
+2025-09-23,Education,900,Debit Card,Course materials
+2025-10-03,Rent,12000,UPI,Monthly rent
+2025-10-08,Food,4100,UPI,Groceries and meals
+2025-10-14,Travel,2000,Cash,Commute
+2025-10-18,Bills,2400,Bank Transfer,Utilities
+2025-10-24,Entertainment,1600,Debit Card,Weekend activity
+2025-11-03,Rent,12000,UPI,Monthly rent
+2025-11-08,Food,4200,UPI,Groceries and meals
+2025-11-14,Travel,2050,UPI,Commute
+2025-11-18,Bills,2550,Bank Transfer,Electricity and internet
+2025-11-23,Healthcare,800,Debit Card,Pharmacy
+2025-12-03,Rent,12000,UPI,Monthly rent
+2025-12-08,Food,4300,UPI,Groceries and meals
+2025-12-14,Travel,2150,Cash,Commute
+2025-12-18,Bills,2700,Bank Transfer,Utilities
+2025-12-24,Shopping,3200,Debit Card,Year-end household items
